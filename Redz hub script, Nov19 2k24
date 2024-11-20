@@ -1,0 +1,3 @@
+Redz Hub new update (working) 
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Blox-Fruits-Redz-Hub-Fixed-22672"))()
